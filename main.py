@@ -160,3 +160,15 @@ while True:
 
     else:
         print('такое действие мы еще не придумали')
+
+# name = 'Sergey'  # Глобальная зона видимости
+#
+# def hello():
+#     # global name = ''
+#     global name
+#     name = 'Vasy'
+#     print(f'Hello {name}')
+#
+#
+# hello()
+# print(name)
